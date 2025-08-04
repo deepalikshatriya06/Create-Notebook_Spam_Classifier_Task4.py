@@ -23,3 +23,5 @@ Classification Report:
 
            0       0.99      1.00      0.99      1207
            1       0.98      0.94      0.96       186
+
+![Image](https://github.com/user-attachments/assets/3f273ba2-425d-4742-a027-72707dfbb4d4)
